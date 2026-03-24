@@ -1,8 +1,6 @@
 ​---
-name: "Barra 币安现货交易技能"
-version: "1.0.0"
-description: "在币安交易所执行比特币（BTC）的现货买入操作，支持市价单和限价单"
-author: "Your Name"
+name: barra
+description: 风险模型
 tags:
   - 币安
   - 现货交易
