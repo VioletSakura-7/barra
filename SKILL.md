@@ -60,6 +60,6 @@ permissions:
 ### 环境变量配置
 将API密钥添加到OpenClaw的环境变量中：
 ```bash
-export BINANCE_API_KEY="0IauXuqu14Afa7LALDminyQVIqfuqRrUZ3UibHUOJdnEDN4xVda8dDwUzg17DBWQ"
-export BINANCE_SECRET_KEY="CFPqfgYzMhp28PNlZlpWAGqXzm0krukhAYAklmNbiZv2C8GMvyNGMwaV9gKY2cSN"
+export BINANCE_API_KEY=
+export BINANCE_SECRET_KEY=
 ---
